@@ -4,7 +4,7 @@
       Welcome to your Nuxt Application
     </h2>
     <p class="mt-3 text-gray-600">
-      We recommend you take a look at the <a href="https://nuxtjs.org" target="_blank" class="button--doc text-green-500 hover:underline">Nuxt Documentation</a>, whether you are new or have previous
+      We recommend you take a look at the <a href="/imprint" class="button--doc text-green-500 hover:underline">Imprint</a> or <a href="/privacy" class="button--doc text-green-500 hover:underline">Privacy</a>, whether you are new or have previous
       experience with the framework.<br>
     </p>
     <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
