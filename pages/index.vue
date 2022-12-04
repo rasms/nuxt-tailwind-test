@@ -4,7 +4,11 @@
       Welcome to your Nuxt Application <font-awesome-icon icon="fa-solid fa-user-secret" class="text-slate-500" />
     </h2>
     <p class="mt-3 text-gray-600">
-      We recommend you take a look at the <a href="/imprint" class="button--doc text-green-500 hover:underline">Imprint</a> or <a href="/privacy" class="button--doc text-green-500 hover:underline">Privacy</a>, whether you are new or have previous
+      We recommend you take a look at the <NuxtLink to="/imprint" class="button--doc text-green-500 hover:underline">
+        Imprint
+      </NuxtLink> or <NuxtLink to="/privacy" class="button--doc text-green-500 hover:underline">
+        Privacy
+      </NuxtLink>, whether you are new or have previous
       experience with the framework.<br>
     </p>
     <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
